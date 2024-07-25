@@ -1,5 +1,5 @@
 # fancy-saddles
-A vanilla minecraft shader that allows datapack developers to add custom horse armor using leather horse armor.
+A vanilla minecraft shader that allows datapack developers to add custom horse armor using dyed leather horse armor.
 
 Latest version, adds the possibility to add custom wolf armor overlays using the same method, but for dyed wolf armor. This means it's not possible to completely override the wolf armor texture, but the patterns that appear on it when the item has been dyed.
 
